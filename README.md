@@ -39,4 +39,3 @@ To host a website on GitHub, you can follow these steps:
 
 9. **Update and maintain your website:** Whenever you want to make changes to your website, you can simply upload the updated files to your repository, and GitHub Pages will automatically rebuild and update your hosted site.
 
-That's it! Your website is now hosted on GitHub and accessible to the public. Remember to keep your repository updated with any changes you make to your website files.
