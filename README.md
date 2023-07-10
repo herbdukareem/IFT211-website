@@ -1,4 +1,4 @@
-# Website Creation Assignment
+# IFT211 - Website Creation Assignment
 
 Each group is expected to create a website for the designated vocational areas or businesses and host it on GitHub for public access. Here are the corrected details:
 
